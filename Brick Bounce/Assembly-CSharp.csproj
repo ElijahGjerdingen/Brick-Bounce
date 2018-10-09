@@ -59,8 +59,9 @@
      <Compile Include="Assets\Menu\Scripts\DragMe.cs" />
      <Compile Include="Assets\Menu\Scripts\DragPanel.cs" />
      <Compile Include="Assets\Menu\Scripts\DropMe.cs" />
-     <Compile Include="Assets\Menu\Scripts\goToAboutOnClick.cs" />
+     <Compile Include="Assets\Menu\Scripts\goToSceneOnClick.cs" />
      <Compile Include="Assets\Menu\Scripts\PanelManager.cs" />
+     <Compile Include="Assets\Menu\Scripts\quitOnClick.cs" />
      <Compile Include="Assets\Menu\Scripts\ResizePanel.cs" />
      <Compile Include="Assets\Menu\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\Menu\Scripts\ShowSliderValue.cs" />
